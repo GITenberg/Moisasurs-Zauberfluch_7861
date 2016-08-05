@@ -1,0 +1,26 @@
+_repo: Moisasurs-Zauberfluch_7861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raimund, Ferdinand
+    birthdate: 1790
+    deathdate: 1836
+    gutenberg_agent_id: '2124'
+    url: http://www.gutenberg.org/2009/agents/2124
+    wikipedia: http://de.wikipedia.org/wiki/Ferdinand_Raimund
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7861'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- GITenberg
+title: Moisasurs Zauberfluch
+url: http://www.gutenberg.org/ebooks/7861
